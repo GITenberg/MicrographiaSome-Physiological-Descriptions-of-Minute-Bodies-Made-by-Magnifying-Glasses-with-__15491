@@ -1,0 +1,33 @@
+_repo: MicrographiaSome-Physiological-Descriptions-of-Minute-Bodies-Made-by-Magnifying-Glasses-with-__15491
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hooke, Robert
+    birthdate: 1635
+    deathdate: 1703
+    gutenberg_agent_id: '6091'
+    url: http://www.gutenberg.org/2009/agents/6091
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Hooke
+description: ''
+gutenberg_bookshelf: Microscopy
+gutenberg_issued: '2005-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magnifying glasses -- Early works to 1800'
+- !lcc 'QH'
+- !lcsh 'Natural history -- Pre-Linnean works'
+- !lcsh 'Microscopy -- Early works to 1800'
+title: 'Micrographia
+
+  Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with
+  Observations and Inquiries Thereupon'
+url: http://www.gutenberg.org/ebooks/15491
