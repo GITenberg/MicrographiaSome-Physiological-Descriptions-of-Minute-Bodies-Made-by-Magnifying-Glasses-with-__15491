@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6091
     wikipedia: http://en.wikipedia.org/wiki/Robert_Hooke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15491#MicrographiaSome-Physiological-Descriptions-of-Minute-Bodies-Made-by-Magnifying-Glasses-with-_
 gutenberg_bookshelf: Microscopy
 gutenberg_issued: '2005-03-29'
 gutenberg_type: Text
